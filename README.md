@@ -39,6 +39,19 @@ ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
 
+#### Summary of High-Paying Data Engineer Roles
+
+- **Leadership and High Salaries:**
+  Top roles such as the Director of Engineering at Twitch offer significant salaries, with an average of $251,000.
+  Staff Data Engineer positions at companies like Handshake and Hinge also command high salaries, ranging from $210,000 to $245,000, indicating a strong demand for experienced professionals in leadership positions.
+
+- **Remote Work Trend:**
+  All listed roles are full-time and location-flexible ("Anywhere"), showcasing a significant trend towards remote work in the data engineering field.
+  Companies are offering high salaries to attract top talent globally, with roles such as Principal Data Engineer at Zscaler and Murmuration offering around $200,000.
+
+- **Value of Specialized Skills:**
+  Specialized roles, like the Rust Data Engineer at Understanding Recruitment, command high salaries, highlighting the demand for niche
+
 ### 2. Top Paying Skills
 
 ```sql
